@@ -1,1 +1,1 @@
-var yourApp = angular.module('yourApp', []);
+var countersApp = angular.module('countersApp', []);
